@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\BIT\Desktop\1215mall다시보기\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2595388399.index
+3754781117.index
+919884486.index
+1829380701.index
+4142919977.index
+710557245.index
+1552543606.index
